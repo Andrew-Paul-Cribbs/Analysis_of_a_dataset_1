@@ -11,6 +11,10 @@ Objective: Predicting employee attrition in the workplace using the IBM HR emplo
 Data manipulation
 Regression
 Data analysis using Pandas
+Data cleaning
+Data preprocessing
+Statistical modeling (Regression)
+Model evaluation
 
 ## Dataset
 The dataset is the IBM HR employee dataset
